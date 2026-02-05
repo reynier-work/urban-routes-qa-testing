@@ -17,6 +17,6 @@ Este proyecto consistió en el aseguramiento de calidad integral de la aplicaci�
 - Diseñé y ejecuté casos de prueba atómicos, logrando una cobertura completa del flujo principal del usuario.
 - Identifiqué errores críticos de diseño y funcionalidad que fueron documentados para el equipo de desarrollo.
 - Mantuve un estándar de documentación profesional siguiendo los criterios de calidad de TripleTen.
-- <img width="1152" height="864" alt="Captura de pantalla 2026-02-05 102355" src="https://github.com/user-attachments/assets/bde10f6d-40c1-4ec4-9876-86fe3bbaca07" />
-> **Evidencia de Gestión en Jira:** Listado de errores documentados durante el Sprint 3. Cada reporte incluye descripción técnica, pasos de reproducción, resultados esperados y prioridad, asegurando una comunicación clara con el equipo de desarrollo.
+- <img width="1152" height="864" alt="Captura de pantalla 2026-02-05 103814" src="https://github.com/user-attachments/assets/389ba93a-3703-46f9-8713-83cceae54d05" />
+**Evidencia de Gestión en Jira:** Listado de errores documentados durante el Sprint 3. Cada reporte incluye descripción técnica, pasos de reproducción, resultados esperados y prioridad, asegurando una comunicación clara con el equipo de desarrollo.
 
